@@ -6,6 +6,11 @@ Created with:
 npm init svelte@next svelte-kit-template
 ```
 
+Install
+```
+npm install
+```
+
 Launch with:
 ```
 npm run dev -- --open
