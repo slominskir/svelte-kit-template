@@ -5,3 +5,8 @@ Created with:
 ```
 npm init svelte@next svelte-kit-template
 ```
+
+Launch with:
+```
+npm run dev -- --open
+```
