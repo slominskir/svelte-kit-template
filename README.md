@@ -1,2 +1,7 @@
 # svelte-kit-template
-Svelte Kit Template
+Useful for reproducing [Svelte Kit](https://kit.svelte.dev/) errors with the smallest possible code.
+
+Created with:
+```
+npm init svelte@next svelte-kit-template
+```
